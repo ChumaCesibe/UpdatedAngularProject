@@ -36,7 +36,7 @@ export class CartComponent implements OnInit {
   }
 
   checkout(){
-    this.router.navigate(['contact'])
+    this.router.navigate(['menu'])
     alert(`Thank you for visiting us, your total price it: R ${this.total}`)
     localStorage.removeItem('cart')
     

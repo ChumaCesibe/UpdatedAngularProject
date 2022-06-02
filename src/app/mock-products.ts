@@ -1,13 +1,6 @@
 import { Product } from "./product";
 export const PRODUCTS: Product[] = [
 
-    {
-    id:0,
-    title:'Mince samoosa',
-    price: 20,
-    image:""
-
-   },
 
    {
     id:1,

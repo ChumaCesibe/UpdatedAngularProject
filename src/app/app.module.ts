@@ -19,6 +19,7 @@ import { CartComponent } from './cart/components/cart.component';
 
 import { FormsModule } from '@angular/forms';
 import { CartItemComponent } from './cart/components/cart-item/cart-item.component';
+import { AddProductComponent } from './cart/components/add-product/add-product.component';
 
 
 
@@ -40,6 +41,7 @@ import { CartItemComponent } from './cart/components/cart-item/cart-item.compone
     CartComponent,
     
     CartItemComponent,
+         AddProductComponent,
    
   
    
